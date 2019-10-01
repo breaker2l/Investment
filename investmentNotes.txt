@@ -1,0 +1,52 @@
+The risk-free asset: The capital asset pricing model assumes the existence of a risk-free asset.An investment with zero risk
+Zero risk = Lower return
+X = Expected volatility,Y = Expected Return
+Investors will allocate their money between the risk-free and the market portfolio
+Market portfolio
+
+#BETA
+it helps us quantify the relationship between a security and the overall market portfolio
+
+Company shares and (the market portfolio = All securities in the market (High return,high risk & Low return,low risk))
+
+Recession 5% > The market portfolio > -5%(rate of return) = systematic risk diversification can't prevent
+
+Stock A:-3%
+Stock B: -7%
+
+Flourishing economy 9% > The market portfolio > 9%(rate of return) 
+
+Stock A:5% (safer stocks)
+Stock B:12% (riskier stocks)
+
+Measuring beta
+How to Calculate Beta
+To calculate the beta of a security, the covariance between the return of the security and the return of the market must be known, as well as the variance of the market returns.
+MORE ON https://www.investopedia.com/ask/answers/070615/what-formula-calculating-beta.asp
+
+Relationship between a stock and the market
+No relationship beta = 0
+Defensive beta<1
+Aggressive beta >1 riskier in recession 
+
+Are they going to be affected by a recession.
+
+They will be.
+
+People have less money and will drive their old vehicles longer.
+
+Car producers can expect a significant slump in revenues.
+
+This illustrates how a recession can have a different impact on different businesses.
+
+And what about the beta of the two companies Wal-Mart's Bayda is zero point 0 9.
+
+It is almost independent of the behavior of the overall market portfolio.
+
+Ford's Bayda is one point one which makes it a riskier asset.
+
+
+
+
+
+
